@@ -1,4 +1,4 @@
 test_git_svn
 ============
 
-testing git svn command
+This is branch rel1.0
