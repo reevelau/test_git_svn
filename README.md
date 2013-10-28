@@ -1,4 +1,4 @@
 test_git_svn
 ============
 
-This is branch MASTER, Revision 2
+This is branch MASTER, Revision 3
